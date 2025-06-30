@@ -147,7 +147,7 @@ def train_step(x_batch, y_batch):
     return loss
 
 # Training
-epochs = 4
+epochs = 5
 start = time.time()
 for epoch in range(epochs):
     print(f"\nEpoch {epoch + 1}/{epochs}")
