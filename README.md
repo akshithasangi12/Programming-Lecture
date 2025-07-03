@@ -38,6 +38,14 @@ Save an exported model file (.tflite or .onnx)
 
 
 Table 1: Training and Inference Results
-Framework Training Time (s) Test Accuracy Inference Time (s)
-TensorFlow ˜40.91 s            ˜0.9725       ˜1.86 s
-PyTorch    ˜81.75 s             ˜0.9705       ˜1.91 s
+
+TensorFlow 
+Training Time (s) -- 40.91 s           
+Test Accuracy -- 0.9725      
+Inference Time (s) -- 1.86 s
+
+PyTorch    
+
+Training Time (s) -- 81.75 s            
+Test Accuracy -- 0.9705       
+Inference Time (s) -- 1.91 s
